@@ -1,5 +1,5 @@
 " Location:     plugin/dispatch-vimproc.vim
-" Maintainer:   Alex Rodionov <https://github.com/p0deje>
+" Maintainer:   Shohei Fujii <https://github.com/ompugao>
 " Version:      0.1
 
 if exists('g:loaded_dispatch_vimproc')
