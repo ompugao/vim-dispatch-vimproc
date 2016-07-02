@@ -15,5 +15,5 @@ Use it the same way you'd normally use vim-dispatch. vimproc is now the preferre
 
 ## License
 
-Copyright © Alex Rodionov  Distributed under the same terms as Vim itself.
+Copyright © Shohei Fujii  Distributed under the same terms as Vim itself.
 See `:help license`.
